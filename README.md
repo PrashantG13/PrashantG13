@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 I' am currently pursuing B.tech degree of computer science with specialization in Data Science 
 
